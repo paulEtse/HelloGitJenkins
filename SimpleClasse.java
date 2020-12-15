@@ -11,6 +11,7 @@ public class SimpleClasse {
 		System.out.println("La somme de "+a+" et "+b+" est : "+sc.somme(a,b));
 		System.out.println("Un  nouveau nouveau petit changement 2");
 
+
 	}
 
 }
